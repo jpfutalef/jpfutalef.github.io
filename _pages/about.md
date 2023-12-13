@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -20,3 +20,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 SITE UNDER CONSTRUCTION!!
+
+I'm Juan-Pablo, an electrical engineer originally from Santiago, Chile.
+
+Right now, I'm based in Milan, Italy doing a PhD at the [LASAR](https://www.lasar.polimi.it/) of the [Politecnico di Milano](https://www.polimi.it/). 
+
+Also, I am an Early Stage Researcher (ESR) in [GREYDIENT](https://www.greydient.eu/), a Marie-Curie Innovative Training Network (ITN) in which I collaborate with many universities in Europe.
+
+
